@@ -1,0 +1,2 @@
+# EmptyRepo
+Empty Git Repository
